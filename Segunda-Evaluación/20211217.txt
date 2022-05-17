@@ -1,0 +1,7 @@
+2021 de Diciembre 17
+
+He puesto una portad ay un índice la práctica de simulaciones lógicas y quedó mejor la presentación del pdf, le da otra imagen.
+Con el punto 6, de la tarea de clonado no hemos avanzado mucho ya que la pregunta no está bien reflejada.
+Continuaré intentado para saber si puedo hacerla.
+Lo que esta arriba reflejado esta escrito dde su día en concreto, teniamos que hacer las simulaciones lógicas que supuestamente también era del trimestre pasado, ahora esto es nuevo con los secuenciales y combinacionales que hay una práctica que hacer mediante Digital o Logisim Evolution.
+Perdí dos días en explicaciones inútiles como siempre en una programa de GitHub que es de pago, sin embargo no se para que pone cosas como estas y encima en un documento que se supone que hay que seguir la práctica.
