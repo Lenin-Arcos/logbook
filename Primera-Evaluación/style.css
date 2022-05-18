@@ -3,6 +3,11 @@ h1 {
     font-family: sans-serif;
     font-weight: bold;
 }
+h2 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
 header, section, footer, aside, article {
     display: block;
 }
@@ -20,8 +25,9 @@ header, section, footer, aside, article {
     text-align: center;
 }
 .menu {
-    background: #CCC;
+    background: #7bed9f;
     padding: 5px;
+    margin-top: 5px;
 }
 .menu li {
     list-style: none;
@@ -35,12 +41,15 @@ header, section, footer, aside, article {
     width: auto;
 }
 time {
-    color: #34ace0;
+    color: #130f40;
+    font-weight: bold;
+
 }
 article {
-    background: #fffbbc;
-    padding-bottom: 15px;
+    background: #48dbfb;
+    padding: 10px;
     border: 1px solid #999;
+    margin-top: 10px;
 
 }
 .info {
