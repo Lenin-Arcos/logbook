@@ -10,6 +10,13 @@ h2 {
     font-size: 20px;
     font-family: sans-serif;
     font-weight: bold;
+    text-align: center;
+}
+h3 {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
 }
 header, section, footer, aside, article {
     display: block;
@@ -43,6 +50,7 @@ header, section, footer, aside, article {
 .seccion {
     margin: 20px;
     width: auto;
+    border: 1px solid black;
 }
 time {
     color: #130f40;
@@ -53,7 +61,7 @@ article {
     background: #fffbb9;
     padding: 10px;
     border: 1px solid #999;
-    margin-top: 10px;
+    margin: 10px 10px;
 
 }
 img {
