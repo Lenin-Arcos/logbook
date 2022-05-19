@@ -1,0 +1,79 @@
+body {
+    border: 5px solid black;
+}
+h1 {
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+h2 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+header, section, footer, aside, article {
+    display: block;
+}
+.agrupar {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.cabecera {
+    background: #b8e994;
+    padding: 10px;
+    text-align: center;
+    margin: 5px;
+    border: 2px solid black;
+}
+.menu {
+    background: #82ccdd;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid black;
+}
+.menu li {
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;
+    text-align: left;
+}
+.seccion {
+    margin: 20px;
+    width: auto;
+}
+time {
+    color: #130f40;
+    font-weight: bold;
+
+}
+article {
+    background: #fffbb9;
+    padding: 10px;
+    border: 1px solid #999;
+    margin-top: 10px;
+
+}
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    padding: 20px;
+}
+.info {
+    margin: 20px;
+    width: auto;
+}
+footer {
+    text-align: center;
+    clear: both;
+    padding: 20px;
+    background: #2d3436;
+    color: #ffffff;
+    margin: 5px;
+}
