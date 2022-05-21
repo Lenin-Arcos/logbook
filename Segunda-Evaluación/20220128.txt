@@ -1,5 +1,0 @@
-2022 Enero 28
-
-Con una tutoria que hice no he podido avanzar en la práctica de los dichosos contadores que aun así no explicó nada ni me dejó algo por lo que empezar ya que con máquina de estados finitos no sirvió, fue como tirar una tarde a la basura sin más.
-Los circuitos que creado ya aparte de la tutoria, comence hacer los contadores y el reloj.
-Las puertas lógicas ya las tenía hechas pero mi error de nuevo fue enseñarle a Mateo ya que dijo nuevamente que lo modifique que así no lo quiere, no es algo nuevo, repito fue un error enseñarle.
