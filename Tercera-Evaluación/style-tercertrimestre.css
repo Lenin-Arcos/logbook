@@ -62,7 +62,12 @@ article {
     padding: 10px;
     border: 1px solid #999;
     margin: 10px 10px;
-
+}
+.izquierdah3 {
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: left;
 }
 img {
     width: 500px;
