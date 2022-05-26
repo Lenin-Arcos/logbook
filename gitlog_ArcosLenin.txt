@@ -1,0 +1,104 @@
+nusa_@DESKTOP-E28A9KA MINGW64 ~/logbook (master)
+$ git log
+commit e8ee1a02fb5201060a82722c0239f68ea9d4f7f4 (HEAD -> master, origin/master)
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 13:05:44 2022 +0200
+
+    agregando mayo 26 a index.html
+
+commit 0aa642f59ef81b3c5ec4051985026452c1856acd
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 12:46:48 2022 +0200
+
+    creción de zip de cada evaluación e ingnorando con .gitignore
+
+commit e05e358fad74b9930670d350a1f34b88b8c728c9
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 12:42:07 2022 +0200
+
+    arreglo de la version de kubuntu 12.04 por 20.04
+
+commit 49e510ed623eab633d143181dde4cb3c141f7ba5
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 12:37:17 2022 +0200
+
+    exportar de md a html y agregando el 05-26 md
+
+commit 85de1f1ce15379bc21d57d72c4eb20ea9398e230
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 12:21:57 2022 +0200
+
+    exportar de md a html 2º Eva
+
+commit 4ff249939ce13c008419d0c0d914d894a136d6e8
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 11:55:01 2022 +0200
+
+    exportar de md a html y modificación de N5
+
+commit 9b9d8e95f26ecb13cd6540ca35f4856bfc04b3c8
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Sun May 22 22:21:56 2022 +0200
+
+    he modificado el html de 1º Eva
+
+commit dc96fdad2b1d02eaf7214f994767267f3355ad3e
+Merge: f414dcd 77b7b62
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Sun May 22 22:00:29 2022 +0200
+
+    Merge branch 'master' of https://github.com/Lenin-Arcos/logbook
+
+
+nusa_@DESKTOP-E28A9KA MINGW64 ~/logbook (master)
+$ git log --full-history
+commit e8ee1a02fb5201060a82722c0239f68ea9d4f7f4 (HEAD -> master, origin/master)
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 13:05:44 2022 +0200
+
+    agregando mayo 26 a index.html
+
+commit 0aa642f59ef81b3c5ec4051985026452c1856acd
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 12:46:48 2022 +0200
+
+    creción de zip de cada evaluación e ingnorando con .gitignore
+
+commit e05e358fad74b9930670d350a1f34b88b8c728c9
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 12:42:07 2022 +0200
+
+    arreglo de la version de kubuntu 12.04 por 20.04
+
+commit 49e510ed623eab633d143181dde4cb3c141f7ba5
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 12:37:17 2022 +0200
+
+    exportar de md a html y agregando el 05-26 md
+
+commit 85de1f1ce15379bc21d57d72c4eb20ea9398e230
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 12:21:57 2022 +0200
+
+    exportar de md a html 2º Eva
+
+commit 4ff249939ce13c008419d0c0d914d894a136d6e8
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Thu May 26 11:55:01 2022 +0200
+
+    exportar de md a html y modificación de N5
+
+commit 9b9d8e95f26ecb13cd6540ca35f4856bfc04b3c8
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Sun May 22 22:21:56 2022 +0200
+
+    he modificado el html de 1º Eva
+
+commit dc96fdad2b1d02eaf7214f994767267f3355ad3e
+Merge: f414dcd 77b7b62
+Author: Lenin Arcos <nusalenin@gmail.com>
+Date:   Sun May 22 22:00:29 2022 +0200
+
+    Merge branch 'master' of https://github.com/Lenin-Arcos/logbook
+
+:
